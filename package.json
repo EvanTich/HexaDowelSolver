@@ -1,0 +1,12 @@
+{
+  "name": "hexa-dowel-solver",
+  "version": "1.0.0",
+  "description": "Finds every solution to the Hexa Dowel Puzzle.",
+  "main": "solver.js",
+  "scripts": {
+    "run": "node solver.js",
+    "uniques": "node solver.js && node uniqueSolutions.js"
+  },
+  "author": "Evan Tichenor",
+  "license": "ISC"
+}
